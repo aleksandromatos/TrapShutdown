@@ -1,0 +1,32 @@
+/*Estilo e cores usados na RootLayout */
+
+.root {
+	-fx-background-color: #424242
+}
+.pane-toolbar {
+	-fx-effect: dropshadow(gaussian, gray, 2, 0, 0, 1);
+	-fx-background-color: #3F51B5
+	
+}
+
+.botton-default{
+	-fx-background-color: #3E50B4
+}
+
+.botton-pressed {
+	-fx-background-color: #FF3F80
+	
+}
+
+.circulo_init {
+	-fx-fill: black 
+}
+
+.circulo_nok {
+	-fx-fill: #ff0000
+}
+
+.circulo_ok {
+	-fx-fill: green 
+
+}
